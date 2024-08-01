@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Rust-SolMan</h1>
 
-<!--
-**rust-solman/rust-solman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <strong>Senior Rust & Blockchain Engineer</strong>
+</div>
+<div align="left">
+Blockchain engineer skilled in Go, Rust, and Solidity, with 8+ years of hands-on experience in web3 projects, including blockchain infrastructure, smart contracts, NFTs, and dApps.<br />
+Rust engineer skilled in secure, low-level programming for cybersecurity, cryptography, and backend systems.<br />
+Skilled in full-stack development with Typescript.<br />
+Recognized for innovative contributions that have boosted several companies by over 30%.<br />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">🎁 Services 🎁</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💰 Blockchain Engineering
+#### 🤝 Smart Contract Development
+#### 💎 NFT Development
+#### 🤼 Decentralized Application Development
+#### ☢️ Rust Engineering
+#### 🌐 Full Stack Development
