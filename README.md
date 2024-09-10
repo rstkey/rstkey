@@ -1,4 +1,4 @@
-<h1 align="center">Rust Key</h1>
+<h1 align="center">👋 Hi!</h1>
 
 <div align="center">
   <strong>Senior Rust & Blockchain Engineer</strong>
